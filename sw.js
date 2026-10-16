@@ -1,6 +1,6 @@
 // Prancheta · Desenvolvido por Pedro Baschoni
 // Guarda o jogo no aparelho para funcionar offline. Troque a versão a cada atualização.
-const CACHE = 'prancheta-v1.0';
+const CACHE = 'prancheta-v1.3';
 const FILES = [
   './', './index.html', './manifest.webmanifest',
   './icons/icon-192.png', './icons/icon-512.png', './icons/icon-maskable-512.png',
